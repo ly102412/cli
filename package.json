@@ -1,6 +1,6 @@
 {
   "name": "msk-cli-dev",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "msk-cli dev",
   "main": "index.js",
   "scripts": {
