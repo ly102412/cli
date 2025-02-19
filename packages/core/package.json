@@ -1,6 +1,6 @@
 {
   "name": "@msk-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "msk-cli core",
   "author": "UNIVISTA-ISG\\liuyong <15102239007@163.com>",
   "homepage": "",
@@ -26,5 +26,5 @@
   "dependencies": {
     "@msk-cli/utils": "^0.0.3"
   },
-  "gitHead": "fba25abc849f1abc293665a0639315e8c85ffe14"
+  "gitHead": "3038d5c024679b692e52e1fc9fd3f4570d3509e3"
 }
