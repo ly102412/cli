@@ -1,6 +1,6 @@
 {
   "name": "@msk-cli/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "msk-cli core",
   "author": "UNIVISTA-ISG\\liuyong <15102239007@163.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@msk-cli/utils": "^0.0.1"
+    "@msk-cli/utils": "^0.0.2"
   }
 }
